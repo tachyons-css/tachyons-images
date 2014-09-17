@@ -8,6 +8,20 @@ npm install --save-dev tachyons-images
 ```
 or download the css on github and include in your project.
 
+## The Code
+```
+
+/*
+
+   IMAGES
+
+*/
+
+/* Responsive images! */
+
+img { max-width: 100%; }
+```
+
 ## Author
 
 [http://mrmrs.cc - Entire internet gateway to all things mrmrs](http://mrmrs.cc)
