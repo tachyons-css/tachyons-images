@@ -26,8 +26,7 @@ img { max-width: 100%; }
 
 ## Author
 
-[http://mrmrs.cc - Entire internet gateway to all things mrmrs](http://mrmrs.cc)
-[http://mrmrs.io - Open source projects](http://mrmrs.io)
+[mrmrs](http://mrmrs.io)
 
 ## License
 
