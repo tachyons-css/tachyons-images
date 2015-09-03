@@ -1,18 +1,21 @@
-# TACHYONS-IMAGES
+# tachyons-images
+0.4.0
 
-http://tachyons.io
-
-Work In Progress. Pull requests and open issues welcome.
+Performance based css module.
 
 ## Install
 ```
 npm install --save-dev tachyons-images
 ```
-or download the css on github and include in your project.
+
+or download the css on github and include in your project:
+
+```
+git clone git@github.com:mrmrs/tachyons-images
+```
 
 ## The Code
 ```
-
 /*
 
    IMAGES
@@ -22,6 +25,8 @@ or download the css on github and include in your project.
 /* Responsive images! */
 
 img { max-width: 100%; }
+
+
 ```
 
 ## Author

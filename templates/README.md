@@ -1,27 +1,22 @@
-# TACHYONS-IMAGES
+# <%= module.name %>
+<%= module.version %>
 
-http://tachyons.io
-
-Work In Progress. Pull requests and open issues welcome.
+<%= module.description %>
 
 ## Install
 ```
-npm install --save-dev tachyons-images
+npm install --save-dev <%= module.name %>
 ```
-or download the css on github and include in your project.
+
+or download the css on github and include in your project:
+
+```
+git clone git@github.com:mrmrs/<%= module.name %>
+```
 
 ## The Code
 ```
-
-/*
-
-   IMAGES
-
-*/
-
-/* Responsive images! */
-
-img { max-width: 100%; }
+<%= srcCSS %>
 ```
 
 ## Author
