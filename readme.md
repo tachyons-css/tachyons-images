@@ -1,4 +1,4 @@
-# tachyons-images 0.4.0
+# tachyons-images 1.0.3
 
 Performance based css module.
 
