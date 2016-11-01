@@ -1,6 +1,6 @@
 {
   "name": "tachyons-images",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "style": "src/tachyons-images.css",
   "description": "Performance based css module.",
   "keywords": [
