@@ -2,6 +2,7 @@
   "name": "tachyons-images",
   "version": "1.0.10",
   "style": "src/tachyons-images.css",
+  "main": "src/tachyons-images.css",
   "description": "Performance based css module.",
   "keywords": [
     "tachyons",
